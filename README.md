@@ -24,17 +24,15 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=vavleenkaur.vavleenkaur)
 <br>
 <h2><b>👩‍💻 About me</b></h2>
-<code><b>A passionate self-taught full stack Web developer and a dedicated software engineer from India who is recognized for her strong problem-solving skills, creativity, determination and team spirit. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</b></code><br><br>
-<code><b>I intend to be a part of the challenging environment where I can constantly prove my technical and creative skills and utilize, learn and improve my knowledge for the organization’s best possible growth.</b></code>
+<code><b>A passionate self-taught full stack Web developer and a dedicated software engineer from India who is recognized for her strong problem-solving skills, creativity, determination and team spirit. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</b></code>
 <hr>
-<br>
 
 - **❤️ I love doing data structures and algorithms in C++**
 - **🤩 I am interested in learning full-stack development and building real-life projects**
 - **📧 want to collaborate? do reach, [email](mailto:shynaishu1910@gmail.com) :)**
 - **💬 ask me about anything, i am happy to help;**
 - **⚡ Fun fact: I am passionate about badminton🏸 and creative designing💟**
-<br>
+<hr>
 
 <h2><b>🛠 Languages and Tools:</b></h2>
 <br>
